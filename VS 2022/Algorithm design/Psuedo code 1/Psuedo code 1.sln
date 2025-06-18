@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psuedo code 1", "Psuedo code 1\Psuedo code 1.csproj", "{745AFAC2-F0FB-4638-BC03-F28C0AFF5857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{745AFAC2-F0FB-4638-BC03-F28C0AFF5857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745AFAC2-F0FB-4638-BC03-F28C0AFF5857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745AFAC2-F0FB-4638-BC03-F28C0AFF5857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745AFAC2-F0FB-4638-BC03-F28C0AFF5857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24DD057D-9CAB-4DFD-84F4-6D2AB0001408}
+	EndGlobalSection
+EndGlobal
